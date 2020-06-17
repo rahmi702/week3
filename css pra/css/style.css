@@ -1,0 +1,157 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+#wholepage{
+	width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: lightblue;
+	font-family: 'Noto Sans', sans-serif;
+}
+
+.header-wrapper{
+	
+	background-color: #006064db;
+	height: 120px;
+	color: #fff;
+	text-align: center;
+	font-weight: 900;
+	font-size: 50px;
+	padding-top: 50px;
+	
+
+	
+}
+.white-dog-wrapper{
+	margin: 55px 117px 18px;
+}
+.white-wrapper{
+	height: 394px;
+	width: 964px;
+	border-left: 1px solid orange;
+	border-top: 1px solid orange;
+}
+.brown-dog-wrapper{
+	margin:0 117px 40px 117px;
+	background-color: blue;
+	height: 335px;
+	width: 966px;
+	display: flex;
+	webkit-box-pack: justify;
+	justify-content: space-between;
+}
+.first-wrapper{
+	background-color: white;
+	height: 256px;
+	width: 275px;
+	margin: 40px 20px;
+	text-align: center;
+}
+.find-wrapper{
+	font-size: 35px;
+	font-weight: 900;
+	padding-top: 30px;
+}
+.use-wrapper{
+	font-weight: 900;
+	font-size: 20px;
+	padding: 15px;
+
+}
+.middle-wrapper{
+	background-color: white;
+	height: 256px;
+	width: 300px;
+	margin-top: 40px;
+}
+.text-wrapper{
+	font-size:40px;
+	padding-top: 70px;
+	text-align: center;
+
+}
+.dog-wrapper{
+	margin: 40px 20px;
+	border-right: 1px solid white;
+	border-bottom: 0.5px solid white;
+	height: 256px;
+	width: 275px;
+
+}
+.flower-wrapper{
+	display: flex;
+	webkit-box-pack: justify;
+	justify-content: space-between;
+	margin: 0 117px 75px;
+	width: 964px;
+
+}
+/*.left-side-wrapper{
+	background: orange;
+	margin-right: 10px;
+	
+	border:40px solid red;
+	width:394px;
+
+}
+.right-side-wrapper{
+	width: 394px;
+	background-color: orange;
+	border: 40px solid red;
+	
+}
+.image-flower-wrapper{
+	padding:100px;
+}*/
+.left-side-wrapper{
+	background-color: red;
+	margin-right: 10px;
+	padding: 35px 40px;
+
+}
+#dog-wrapper{
+	width:394px;
+	height: 594px;
+	border-top: 5px solid orange;
+	border-bottom: 5px solid orange;
+
+
+}
+.right-side-wrapper{
+	height: 594px;
+	width:394px;
+	margin-left: 10px;
+	background-image: url(../images/flower.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	border: 40px solid red;
+
+}
+
+
+
+
+
+
+.footer-wrapper{
+	background-color: #006064db;
+	height: 160px;
+	color: #fff;
+	padding-top: 50px;
+	font-weight: 900;
+	font-size:3em;
+	text-align: center;
+
+
+	
+}
+
+
+
+
+
+
